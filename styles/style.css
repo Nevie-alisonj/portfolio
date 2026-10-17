@@ -123,6 +123,10 @@ a {
     box-shadow: 0 20px 20px rgb(0,0,0, .15);
     padding: 2%;
 }
+
+.descript {
+    color: #0B1F3A;
+}
 .hamburger {
     display: none;
     background: none;
